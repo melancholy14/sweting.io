@@ -1,6 +1,6 @@
-/*
-  Please, complete 'print' function so that it can print a string with 'Hello, World'.
-**/
+/**
+ * Please, complete 'print' function so that it can print a string with 'Hello, World'.
+ */
 
 function print(inputString) {
   // This line of code prints the first line of output

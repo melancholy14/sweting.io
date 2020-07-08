@@ -1,6 +1,6 @@
-/*
-  Please, complete the 'plus' function to add parameters to other variables defined inside the function.
-**/
+/**
+ * Please, complete the 'plus' function to add parameters to other variables defined inside the function.
+ */
 
 function plus(a, b) {
   const i = 10;
