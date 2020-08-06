@@ -19,8 +19,8 @@ function separateString(str) {
     }
   }
 
-  console.log(`${evens.join('')} ${odds.join('')}`);
+  console.log(evens.join(''), odds.join(''));
 }
 
-separateString('Hacker');
-separateString('Rank');
+separateString('Hacker'); // Hce akr
+separateString('Rank');   // Rn ak

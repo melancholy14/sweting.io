@@ -8,5 +8,5 @@ function separateString(str) {
 
 }
 
-separateString('Hacker');
-separateString('Rank');
+separateString('Hacker'); // Hce akr
+separateString('Rank');   // Rn ak
