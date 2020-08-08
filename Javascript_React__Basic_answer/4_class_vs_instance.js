@@ -1,5 +1,5 @@
 /**
- * Please, write a Person class width an instance variable, age, and a constructor that takes an integer, initialAge, as a parameter.
+ * Please, write a Person class with an instance variable, age, and a constructor that takes an integer, initialAge, as a parameter.
  * - The constructor must assign initialAge to age after confirming the argument passed as initialAge is not negative.
  * - If the initialAge is negative, set age to 0 and print 'Age is not valid, setting age to 0.'
  * - The Person class will have the following instance methods;
